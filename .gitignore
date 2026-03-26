@@ -49,3 +49,5 @@ backend/uploads/
 
 # Local installers / binaries
 *.exeface-ai/.venv311/
+face-ai/.venv311/
+*.exe
