@@ -1,0 +1,10 @@
+target/
+.git/
+.gitignore
+.mvn/wrapper/maven-wrapper.jar
+*.log
+out*.txt
+run_log.txt
+build_log.txt
+data/
+uploads/
